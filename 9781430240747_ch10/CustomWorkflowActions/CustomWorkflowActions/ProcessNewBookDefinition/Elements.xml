@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+  <WorkflowActions>
+    <Action Name="Process New Book"
+            SandboxedFunction="true"
+            Assembly="$SharePoint.Project.AssemblyFullName$"
+            ClassName="CustomWorkflowActions.ProcessNewBookAction"
+            FunctionName="ProcessNewBook"
+            AppliesTo="all"
+            UsesCurrentItem="true"
+            Category="Custom Workflow Actions">
+      <RuleDesigner Sentence="Process New Book"></RuleDesigner>
+
+      <Parameters>
+        <Parameter Name="__Context" Type="Microsoft.SharePoint.WorkflowActions.WorkflowContext, 
+                                          Microsoft.SharePoint.WorkflowActions"
+                   Direction="In"
+                   DesignerType="Hide" />           
+      </Parameters>
+    </Action>
+  </WorkflowActions>
+</Elements>

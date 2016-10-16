@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Id="db58cb89-ccb0-4509-99a7-0a4781c9e3bf" Scope="Web" Title="BookSearchJavaScript Feature1">
+  <ElementManifests>
+    <ElementManifest Location="CustomPages\Elements.xml" />
+    <ElementFile Location="CustomPages\BookSearch.aspx" />
+  </ElementManifests>
+</Feature>

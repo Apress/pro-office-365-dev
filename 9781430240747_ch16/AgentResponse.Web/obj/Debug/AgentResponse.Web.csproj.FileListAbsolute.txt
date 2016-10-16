@@ -1,0 +1,5 @@
+C:\Users\Mike\Documents\#projects\Office365\Chapter16\code\SalesManagement\AgentResponse.Web\bin\AgentResponse.Web.dll
+C:\Users\Mike\Documents\#projects\Office365\Chapter16\code\SalesManagement\AgentResponse.Web\bin\AgentResponse.Web.pdb
+C:\Users\Mike\Documents\#projects\Office365\Chapter16\code\SalesManagement\AgentResponse.Web\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Mike\Documents\#projects\Office365\Chapter16\code\SalesManagement\AgentResponse.Web\obj\Debug\AgentResponse.Web.dll
+C:\Users\Mike\Documents\#projects\Office365\Chapter16\code\SalesManagement\AgentResponse.Web\obj\Debug\AgentResponse.Web.pdb

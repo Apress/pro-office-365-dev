@@ -1,0 +1,5 @@
+G:\Office365\SharepointSolutions\BookSearchJavaScript\BookSearchJavaScript\bin\Debug\BookSearchJavaScript.dll
+G:\Office365\SharepointSolutions\BookSearchJavaScript\BookSearchJavaScript\bin\Debug\BookSearchJavaScript.pdb
+G:\Office365\SharepointSolutions\BookSearchJavaScript\BookSearchJavaScript\obj\Debug\ResolveAssemblyReference.cache
+G:\Office365\SharepointSolutions\BookSearchJavaScript\BookSearchJavaScript\obj\Debug\BookSearchJavaScript.dll
+G:\Office365\SharepointSolutions\BookSearchJavaScript\BookSearchJavaScript\obj\Debug\BookSearchJavaScript.pdb

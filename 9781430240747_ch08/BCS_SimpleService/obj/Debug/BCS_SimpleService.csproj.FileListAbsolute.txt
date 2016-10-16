@@ -1,0 +1,5 @@
+C:\Users\Mike\Documents\#projects\Office365Book\Chapter08_BCS\code\BCS_SimpleService\BCS_SimpleService\bin\BCS_SimpleService.dll
+C:\Users\Mike\Documents\#projects\Office365Book\Chapter08_BCS\code\BCS_SimpleService\BCS_SimpleService\bin\BCS_SimpleService.pdb
+C:\Users\Mike\Documents\#projects\Office365Book\Chapter08_BCS\code\BCS_SimpleService\BCS_SimpleService\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Mike\Documents\#projects\Office365Book\Chapter08_BCS\code\BCS_SimpleService\BCS_SimpleService\obj\Debug\BCS_SimpleService.dll
+C:\Users\Mike\Documents\#projects\Office365Book\Chapter08_BCS\code\BCS_SimpleService\BCS_SimpleService\obj\Debug\BCS_SimpleService.pdb

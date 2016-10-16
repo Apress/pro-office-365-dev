@@ -1,0 +1,5 @@
+G:\Office365\SharepointSolutions\CustomWorkflowActions\CustomWorkflowActions\obj\Debug\ResolveAssemblyReference.cache
+G:\Office365\SharepointSolutions\CustomWorkflowActions\CustomWorkflowActions\bin\Debug\CustomWorkflowActions.dll
+G:\Office365\SharepointSolutions\CustomWorkflowActions\CustomWorkflowActions\bin\Debug\CustomWorkflowActions.pdb
+G:\Office365\SharepointSolutions\CustomWorkflowActions\CustomWorkflowActions\obj\Debug\CustomWorkflowActions.dll
+G:\Office365\SharepointSolutions\CustomWorkflowActions\CustomWorkflowActions\obj\Debug\CustomWorkflowActions.pdb

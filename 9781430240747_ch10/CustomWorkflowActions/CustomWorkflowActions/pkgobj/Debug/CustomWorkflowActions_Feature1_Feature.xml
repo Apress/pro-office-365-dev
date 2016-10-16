@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Title="CustomWorkflowActions Feature1" Id="9b9c06b1-272c-4735-b515-a352b4031d26" Scope="Site">
+  <ElementManifests>
+    <ElementManifest Location="ProcessNewBookDefinition\Elements.xml" />
+  </ElementManifests>
+</Feature>

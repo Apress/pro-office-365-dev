@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Id="fc8ca0f7-3d53-4572-96e8-763c4e543a45" Scope="Web" Title="SilverlightSearchDeployment Feature1">
+  <ElementManifests>
+    <ElementManifest Location="SearchApp\Elements.xml" />
+    <ElementFile Location="SearchApp\BookSearchSilverlight.xap" />
+  </ElementManifests>
+</Feature>

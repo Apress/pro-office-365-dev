@@ -1,0 +1,5 @@
+G:\Office365\SharepointSolutions\VisualWebParts\VisualWebParts\obj\Debug\ResolveAssemblyReference.cache
+G:\Office365\SharepointSolutions\VisualWebParts\VisualWebParts\bin\Debug\VisualWebParts.dll
+G:\Office365\SharepointSolutions\VisualWebParts\VisualWebParts\bin\Debug\VisualWebParts.pdb
+G:\Office365\SharepointSolutions\VisualWebParts\VisualWebParts\obj\Debug\VisualWebParts.dll
+G:\Office365\SharepointSolutions\VisualWebParts\VisualWebParts\obj\Debug\VisualWebParts.pdb

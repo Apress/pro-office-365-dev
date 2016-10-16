@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="f224dd78-9456-47c6-a8d1-284356ecca5a" solutionId="f224dd78-9456-47c6-a8d1-284356ecca5a" resetWebServer="false" name="BookSearchJavaScript" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <features>
+    <featureReference itemId="3ec85a0c-a966-4f13-b175-689a060af807" />
+  </features>
+</package>

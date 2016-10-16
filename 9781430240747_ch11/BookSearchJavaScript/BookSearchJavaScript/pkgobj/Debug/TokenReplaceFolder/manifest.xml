@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="f224dd78-9456-47c6-a8d1-284356ecca5a" SharePointProductVersion="14.0">
+  <Assemblies>
+    <Assembly Location="BookSearchJavaScript.dll" DeploymentTarget="GlobalAssemblyCache" />
+  </Assemblies>
+  <FeatureManifests>
+    <FeatureManifest Location="BookSearchJavaScript_Feature1\Feature.xml" />
+  </FeatureManifests>
+</Solution>

@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ProjectItem Type="Microsoft.VisualStudio.SharePoint.Module" DefaultFile="Elements.xml" SupportedTrustLevels="All" SupportedDeploymentScopes="Web, Site" xmlns="http://schemas.microsoft.com/VisualStudio/2010/SharePointTools/SharePointProjectItemModel">
+  <Files>
+    <ProjectItemFile Source="Elements.xml" Target="SearchApp\" Type="ElementManifest" />
+    <ProjectOutputFile ProjectId="2489d468-e98a-4724-8a04-fc57a18c4869" ProjectPath="..\BookSearchSilverlight\BookSearchSilverlight.csproj" Target="SearchApp\" Type="ElementFile" />
+  </Files>
+</ProjectItem>

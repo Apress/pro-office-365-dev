@@ -1,0 +1,5 @@
+G:\Office365\SharepointSolutions\Events\Events\bin\Debug\Events.dll
+G:\Office365\SharepointSolutions\Events\Events\bin\Debug\Events.pdb
+G:\Office365\SharepointSolutions\Events\Events\obj\Debug\ResolveAssemblyReference.cache
+G:\Office365\SharepointSolutions\Events\Events\obj\Debug\Events.dll
+G:\Office365\SharepointSolutions\Events\Events\obj\Debug\Events.pdb

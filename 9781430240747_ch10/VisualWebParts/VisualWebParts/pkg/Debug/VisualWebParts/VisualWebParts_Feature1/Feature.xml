@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Id="a1eac2cb-3c33-4442-bbaf-9ac125324e09" Scope="Site" Title="VisualWebParts Feature1">
+  <ElementManifests>
+    <ElementManifest Location="FindBooks\Elements.xml" />
+    <ElementFile Location="FindBooks\FindBooks.webpart" />
+  </ElementManifests>
+</Feature>

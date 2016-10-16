@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="5fd02978-5659-4e9a-a518-895ffe195327" SharePointProductVersion="14.0">
+  <Assemblies>
+    <Assembly Location="VisualWebParts.dll" DeploymentTarget="GlobalAssemblyCache">
+      <SafeControls>
+        <SafeControl Assembly="VisualWebParts, Version=1.0.0.0, Culture=neutral, PublicKeyToken=3d0c4a97193b363f" Namespace="VisualWebParts.FindBooks" TypeName="*" />
+      </SafeControls>
+    </Assembly>
+  </Assemblies>
+  <FeatureManifests>
+    <FeatureManifest Location="VisualWebParts_Feature1\Feature.xml" />
+  </FeatureManifests>
+</Solution>

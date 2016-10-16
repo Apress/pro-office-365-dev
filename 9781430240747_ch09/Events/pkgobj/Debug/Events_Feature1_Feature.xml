@@ -1,0 +1,2 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Title="Events Feature1" Id="a3abcdae-ed47-4858-b0aa-3870be7ea203" ReceiverAssembly="Events, Version=1.0.0.0, Culture=neutral, PublicKeyToken=e276b35213a21baf" ReceiverClass="Events.Features.Feature1.Feature1EventReceiver" Scope="Web"></Feature>

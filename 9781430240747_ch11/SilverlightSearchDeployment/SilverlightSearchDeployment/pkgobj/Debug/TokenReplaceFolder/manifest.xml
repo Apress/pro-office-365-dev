@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="2f24d018-b4d9-4786-b1f3-5031bc47b861" SharePointProductVersion="14.0">
+  <Assemblies>
+    <Assembly Location="SilverlightSearchDeployment.dll" DeploymentTarget="GlobalAssemblyCache" />
+  </Assemblies>
+  <FeatureManifests>
+    <FeatureManifest Location="SilverlightSearchDeployment_Feature1\Feature.xml" />
+  </FeatureManifests>
+</Solution>

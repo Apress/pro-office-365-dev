@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="1fd5d2b8-d100-44b3-a8dc-58c4e1aaf05c" SharePointProductVersion="14.0">
+  <Assemblies>
+    <Assembly Location="CustomWorkflowActions.dll" DeploymentTarget="GlobalAssemblyCache" />
+  </Assemblies>
+  <FeatureManifests>
+    <FeatureManifest Location="CustomWorkflowActions_Feature1\Feature.xml" />
+  </FeatureManifests>
+</Solution>
